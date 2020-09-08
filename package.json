@@ -18,7 +18,7 @@
   "license": "MIT",
   "dependencies": {
     "@electron/get": "^1.12.2",
-    "extract-zip": "^2.0.0"
+    "extract-zip": "2.0.0"
   },
   "devDependencies": {
     "mocha": "^7.1.2",
